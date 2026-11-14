@@ -12,8 +12,8 @@
     appName: 'Mahjoub.click',
 
     // --- Supabase (déjalas vacías para MODO DEMO) -------------------------
-    SUPABASE_URL: 'https://droqqhvdfxhhoncwmiov.supabase.co',        // ← URL de TU proyecto nuevo (Settings → API)
-    SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRyb3FxaHZkZnhoaG9uY3dtaW92Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI1Njk4MzYsImV4cCI6MjEwODE0NTgzNn0.Z3pPvSDwNlwJ7uBvG-RbFj67FcB7HBp5Q8cdM53w-oQ',   // ← clave 'anon public' de TU proyecto nuevo
+    SUPABASE_URL: 'https://kuzyoruzqyjxccskqkwu.supabase.co',        // ← URL de TU proyecto nuevo (Settings → API)
+    SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt1enlvcnV6cXlqeGNjc2txa3d1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ2NjU3ODksImV4cCI6MjExMDI0MTc4OX0.eK4eIO0dGpR84t08inGRY4zRliF6zPJQPMblsUOypys',   // ← clave 'anon public' de TU proyecto nuevo
 
     // --- Dominio público (solo el host, sin https:// ni barra final) ------
     // Si está vacío se detecta automáticamente del dominio actual.
